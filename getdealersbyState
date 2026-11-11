@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic response listing dealers located in Kansas from your running application.
+
+# Example command shape only (replace URL and route/query format):
+# curl -i 'http://localhost:8000/<dealers-by-state-endpoint>?state=Kansas'
+
+TODO: Paste the actual output here.

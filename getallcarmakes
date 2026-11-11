@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic response listing all car makes and models from your running application.
+
+# Example command shape only (replace URL and route):
+# curl -i 'http://localhost:8000/<car-makes-and-models-endpoint>'
+
+TODO: Paste the actual output here.

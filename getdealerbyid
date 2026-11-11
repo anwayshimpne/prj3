@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic response for a real dealer ID in your running application.
+
+# Example command shape only (replace URL, route, and dealer ID):
+# curl -i 'http://localhost:8000/<dealer-endpoint>/<dealer-id>'
+
+TODO: Paste the actual output here.

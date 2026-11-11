@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic response from logging out the session created by loginuser. Do not commit session cookies or tokens.
+
+# Example command shape only (replace URL and route; use the authenticated session):
+# curl -i -X POST 'http://localhost:8000/<logout-endpoint>' -b '<session-cookie>'
+
+TODO: Paste the actual output here, with session secrets redacted.

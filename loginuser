@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic response from a successful login using a valid test account. Redact passwords, cookies, tokens, and other secrets before committing.
+
+# Example command shape only (replace URL, route, and request fields):
+# curl -i -X POST 'http://localhost:8000/<login-endpoint>' -H 'Content-Type: application/json' -d '{"username":"<test-user>","password":"<redacted>"}'
+
+TODO: Paste the actual output here, with credentials and session secrets redacted.

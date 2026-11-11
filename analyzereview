@@ -1,0 +1,6 @@
+TODO: Replace with the exact cURL command and authentic sentiment-analysis response for the text "Fantastic services" from your running application.
+
+# Example command shape only (replace URL, route, and request format):
+# curl -i -X POST 'http://localhost:8000/<sentiment-endpoint>' -H 'Content-Type: application/json' -d '{"review":"Fantastic services"}'
+
+TODO: Paste the actual output here.
